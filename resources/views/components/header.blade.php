@@ -3,7 +3,7 @@
      <div class="flex items-center gap-4">
         <span>Admin</span>
 
-        <a href="/logout" class="bg-red-500 px-3 py-1 rounded hover:bg-red-600">
+        <a href="/logout" class="bg-red-400 px-3 py-1 rounded hover:bg-red-500">
             Logout
         </a>
 </header>
