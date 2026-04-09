@@ -3,8 +3,11 @@
         <li class="mb-3">
             <a href="/" class="block p-2 hover:bg-gray-700 rounded">Dashboard</a>
         </li>
-        <li class="mb-3">
+       <li class="mb-3">
             <a href="/users" class="block p-2 hover:bg-gray-700 rounded">Users</a>
+        </li>
+        <li class="mb-3">
+            <a href="/settings" class="block p-2 hover:bg-gray-700 rounded">Settings</a>
         </li>
     </ul>
 </aside>

@@ -1,5 +1,3 @@
-folder layouts 
-app.blade.php
 
 <!DOCTYPE html>
 <html>
